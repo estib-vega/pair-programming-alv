@@ -1,2 +1,3 @@
-# pair-programming-alv
-Javascript practices project
+# Pair programming parctices
+
+_Will use JavaScript_
