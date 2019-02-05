@@ -1,3 +1,3 @@
-# Pair programming parctices
+# Pair programming practices
 
 _Will use JavaScript_
